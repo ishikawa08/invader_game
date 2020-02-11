@@ -1,6 +1,10 @@
 
 # invader_game
 
+![pyv](https://img.shields.io/badge/python-3.7-blue.svg)
+![li](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
 PythonとそのGUI構成用ライブラリであるTkinterで作成したインベーダーゲームです。
 
 ## ゲーム画面
