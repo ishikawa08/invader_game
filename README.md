@@ -9,8 +9,7 @@ PythonとそのGUI構成用ライブラリであるTkinterで作成したイン�
 
 ## ゲーム画面
 
-![display](https://user-images.githubusercontent.com/48639091/74260860-99637f80-4d3d-11ea-81d8-688c35b30573.png)
-
+![display](https://user-images.githubusercontent.com/48639091/74309424-0ca4da00-4dae-11ea-8163-811a726abed8.png)
 
 ## How to play
 
